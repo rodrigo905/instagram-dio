@@ -136,6 +136,7 @@ body {
     }
 }
 
+
 @media (max-width: 650px) {
     body {
         background-color: #ffffff;
@@ -154,6 +155,6 @@ body {
     }
     
     .group {
-        border: 1px solid transparent;
+        border: none;
     }
 }
